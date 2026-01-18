@@ -54,6 +54,7 @@
   #closeToast { margin-top:10px; width:100%; padding:5px; }
   #codeInput { padding:5px; width:180px; }
   #unlockBtn, #openQrBtn { padding:5px 10px; margin-left:5px; }
+  
 </style>
 </head>
 <body>
@@ -99,7 +100,7 @@ const routeCoords = [
 L.polyline(routeCoords, {color:"blue", weight:5}).addTo(map);
 
 /* Limite pan */
-const cityBounds = L.latLngBounds([40.41200, 15.20735], [40.42461, 15.24164]);
+const cityBounds = L.latLngBounds([40.40649, 15.19628], [40.42944, 15.25177]);
 map.fitBounds(cityBounds);
 map.setMaxBounds(cityBounds);
 map.options.maxBoundsViscosity = 1.0;
