@@ -1,0 +1,66 @@
+{
+  "1": {
+    "titolo": "Tappa 1",
+    "marker": [40.417629, 15.229336],
+    "popup": "Palazzo Carafa",
+    "descrizione": "Il Palazzo Vigna della Corte ha origini presumibilmente all’inizio del Settecento ed è situato nella località Santa Sofia, ai piedi del centro storico di Castel San Lorenzo.Inizialmente concepito come casa rurale, il palazzo era circondato da giardini, orti, uliveti e vigneti, da cui deriva il nome della zona e dell’edificio.La struttura, tipica delle costruzioni cilentane del XVIII secolo, presenta una pianta quadrata con quattro torri angolari, tre livelli (un seminterrato e due fuori terra) e un lungo viale d’ingresso che conduce al portale centrale. Il piano terra e il primo piano ospitavano sale e camere disposte in enfilade, con pavimenti originali in cotto o ceramica di Vietri e soffitti lignei. Al piano terra si trovavano anche cucine e depositi agricoli, mentre il seminterrato ospitava frantoio,cantina e magazzini.Il palazzo conserva elementi decorativi tipici del periodo, come stucchi barocchi, bugnati sulle torri e maschere ornamentali, mentre la facciata principale si distingue per la simmetria e le otto lesene decorate che incorniciano finestre e balconi. Dal retro del primo piano si accede a un’ampia terrazza panoramica con vista sulla Valle del Calore, mentre le torri angolari offrono scorci suggestivi sull’intero paesaggio circostante.Un elemento affascinante della struttura è il tunnel sotterraneo, utilizzato in passato dai principi Carafa per spostarsi tra i due palazzi in caso di pericolo. Il Palazzo Vigna della Corte rappresenta oggi un perfetto esempio di architettura signorile cilentana settecentesca, unendo storia, arte e panorami mozzafiato in un’unica visita.",
+    "steps": [{"instruction": "Parti dal centro del paese", "distance": 90}],
+    "quiz": [
+      {
+        "domanda": "Da cosa deriva il nome di tale edificio?",
+        "risposte": ["Dalla struttura", "Da ciò che lo circondava", "Da ciò che era al suo interno"],
+        "corretta": 1,
+        "punti": 10
+      }
+    ],
+	"unlockCode": "dGFwcGEyLjEu"
+  },
+  "2": {
+    "titolo": "Tappa 2",
+    "marker": [40.416514, 15.230605],
+    "popup": "Statua dell'Amore Universale",
+    "descrizione": "La statua “Amore Universale” prende il nome dal simbolo che rappresenta: l’abbraccio eterno tra due innamorati e, metaforicamente,l’unione tra due popoli segnati dalla guerra, l’Italia e l’Ucraina. Tutto ebbe inizio nel 1943, durante la Seconda Guerra Mondiale, quando il giovane Luigi Peduto, cavaliere maresciallo della Guardia di Finanza originario di Castel San Lorenzo, fu deportato nel campo di concentramento di Krems, in Austria. Lì incontrò Mokryna Yurz (chiamata Maria da Luigi), anche lei ventenne e costretta ai lavori forzati. Nonostante la barriera linguistica e le difficili condizioni, i due si innamorarono profondamente. Alla liberazione del campo nel 1945, furono separati: Mokryna tornò in Ucraina e Luigi in Italia, impediti dalle autorità sovietiche di riunirsi. Entrambi formarono famiglie, ma il ricordo del loro amore rimase vivo. Solo nel 2004, grazie al programma televisivo ucraino Aspettami, Luigi riuscì finalmente a ritrovare Mokryna e a riabbracciarla dopo sessant’anni. La loro storia è stata celebrata nel 2013 con una scultura in bronzo a Kiev, vicino al Ponte degli Innamorati, raffigurante i due anziani stretti in un abbraccio eterno. Una copia della scultura è stata inaugurata a Castel San Lorenzo il 30 aprile 2017, diventando simbolo di amore eterno e memoria storica, oltre a essere una tappa suggestiva per visitatori e coppie",
+	"steps": [{"instruction": "Parti dal centro del paese", "distance": 90}],
+    "quiz": [
+      {
+        "domanda": "Dove si incontrarono Luigi e Mukryna?",
+        "risposte": ["In un campo di concentramento in Austria", "In Ucraina", "In Italia"],
+        "corretta": 0,
+        "punti": 10
+      }
+    ],
+	"unlockCode":"dGFwcGEyLjIu"	
+  },
+    "3": {
+    "titolo": "Tappa 3",
+    "marker": [40.416309, 15.230200],
+    "popup": "Castello Carafa",
+    "descrizione": "Il Castello Carafa affonda le sue origini nell’epoca dell’Imperatore Federico II, che ne volle la costruzione sulla sommità della collina per controllare e difendere la suggestiva Valle del Calore. In seguito, sotto il dominio degli Angiò, il complesso fu arricchito da tre torri di avvistamento, presidiate da una guarnigione di soldati. Attorno al castello sorsero le prime abitazioni, costruite da abitanti provenienti dal vicino Casale di Santa Maria de Strictu e dai territori circostanti: da qui ebbe origine il primo nucleo del paese. Intorno al 1500, il feudo passò alla nobile famiglia Carafa, dalla quale il castello prende il nome attuale. Dell’antica struttura medievale restano oggi l’imponente involucro esterno e una torre panoramica, dalla quale si può godere di una spettacolare vista sulla Valle del Calore. Il castello è attualmente di proprietà privata.",
+	"steps": [{"instruction": "Parti dal centro del paese", "distance": 90}],
+    "quiz": [
+      {
+        "domanda": "Per quale scopo venne costruito il Castello Carafa?",
+        "risposte": ["Abitazione per chi proveniva dal vicino casale di Santa Maria de Strictu", "Controllo e protezione della Valle del Calore", "Ospitare la famiglia Carafa"],
+        "corretta": 1,
+        "punti": 10
+      }
+    ],
+	"unlockCode":"dGFwcGEyLjMu"	
+  },
+      "4": {
+    "titolo": "Tappa 4",
+    "marker": [40.416297, 15.230121],
+    "popup": "Murales",
+    "descrizione": "Il primo murales mostra, in primo piano la Vigna adiacente al 'Palazzo Vigna della Corte', entrambi appartenenti ai Principi Carafa.Il Palazzo Vigna della Corte era la dimora estiva dei principi che amavano circondarsi di artisti, scrittori, pittori, dando vita ad una delle Pinacoteche più importanti della Provincia di Salerno. In basso invece, è possibile osservare il personaggio 'Ù Munaciello'. La leggenda narra che nel Castello vagasse il fantasma di un monaco, il quale aveva il compito di custodire il tesoro dei Principi. Solo chi fosse riuscito nell’intento di togliergli il famoso cappuccio rosso sarebbe stato accompagnato nella stanza del tesoro. Il secondo murales raffigura una delle leggende più popolari di Castel San Lorenzo, cioè quella dei 'pumpanari'. Essi erano uomini, nati nella notte di Natale, che si trasformavano nel mese di gennaio, dopo la mezzanotte, in 'pumpanari', ovvero la versione popolare dei lupi mannari, e si aggiravano tra le vie del paese spaventando gli altri abitanti. Sullo sfondo è possibile ammirare il simbolo del nostro paese, un castello con le tre torri e il mulino del principe. Nel terzo murales è raffigurata la leggenda secondo la quale, sul punto più alto del paese, denominato 'Tempa' si accampò un drago,il quale predominava su tutti gli abitanti. Ciò fino a quando, un cavaliere coraggioso, decise di affrontare il drago, riuscendo a ferirlo mortalmente.Il drago ferito, abbandonò la località 'Tempa', dirigendosi presso le sponde del fiume Calore, e lasciando una scia di sangue dietro di sé. Da questa leggenda, un tratto del centro storico, prese il nome di 'Via Dragonata'. Nel quarto murales, sulle pendici della collina su cui si erige la Chiesa di Santa Maria, è raffigurata una scrofa che allatta i suoi piccoli. Quest'immagine rimanda alla leggenda del porcellino d’oro, che si narra fosse in una delle 300 stanze del Castello.",
+	"steps": [{"instruction": "Parti dal centro del paese", "distance": 90}],
+    "quiz": [
+      {
+        "domanda": "Quale indumento bisognava togliere al munaciello affinché si venisse accompagnati nella stanza del tesoro?",
+        "risposte": ["Cappuccio", "Cappello", "Cappotto"],
+        "corretta": 0,
+        "punti": 10
+      }
+    ],
+	"unlockCode":"dGFwcGEyLjQu"	
+  }
+}
