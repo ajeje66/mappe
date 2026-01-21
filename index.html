@@ -437,7 +437,7 @@ nextBtn.onclick = () => { if(!nextBtn.disabled) caricaTappa(stato.tappa + 1); };
 prevBtn.onclick = () => { if(stato.tappa > 1) caricaTappa(stato.tappa - 1); };
 
 /* ===== CARICA TAPPE DA JSON ===== */
-fetch("mappe/percorso1.json")
+fetch("percorso1.json")
   .then(r=>r.json())
   .then(data=>{
     TAPPE = data;
@@ -467,4 +467,5 @@ fetch("mappe/percorso1.json")
 
 </body>
 </html>
+
 
