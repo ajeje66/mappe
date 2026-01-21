@@ -312,11 +312,11 @@ function caricaQuiz(tappaId) {
   const risposteEl = document.getElementById("quiz-risposte");
   const btn = document.getElementById("quiz-btn");
 
-  const tappa = TAPPE[tappaId];
-  if (!tappa || !tappa.quiz || tappa.quiz.length === 0) {
-    quizDiv.style.display = "none";
-    return;
-  }
+  const tappa = TAPPE[tappaId.toString()];
+  if (!(tappaId.toString() in stato.quizIndex)) stato.quizIndex[tappaId.toString()] = 0;
+const index = stato.quizIndex[tappaId.toString()];
+const q = tappa.quiz[index];
+if (!q) return;
 
   quizDiv.style.display = "block";
 
@@ -467,5 +467,6 @@ fetch("./percorso1.json")
 
 </body>
 </html>
+
 
 
